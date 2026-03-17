@@ -8,7 +8,7 @@
 	},
 	"id": "$MOD_ID",
 	"name": "$dashcord",
-	"version": "$1.0",
+	"version": "$5.3.0",
 	"developer": "$xxunderscore2xx",
 	"description": "$discord in geometry dash",
 	"dependencies": {
